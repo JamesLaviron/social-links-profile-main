@@ -8,6 +8,7 @@ body {
   width: 100vw;
   gap: var(--spacing-100);
   padding: 0 var(--spacing-300);
+  background-color: var(--color-grey-900);
 }
 
 /* Tablet */

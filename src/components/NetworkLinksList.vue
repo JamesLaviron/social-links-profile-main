@@ -9,10 +9,11 @@
 </template>
 
 <script>
+import NetworkLink from "./NetworkLink.vue";
 export default {
   name: "NetworkLinksList",
-  props: {
-    msg: String,
+  components: {
+    NetworkLink,
   },
 };
 </script>
