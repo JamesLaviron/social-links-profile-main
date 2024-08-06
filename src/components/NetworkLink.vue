@@ -1,7 +1,9 @@
 <template>
-  <a :href="url" class="network-link text-preset-2-bold">
-    {{ content }}
-  </a>
+  <div class="network-link">
+    <span class="text-preset-2-bold">
+      {{ content }}
+    </span>
+  </div>
 </template>
 
 <script>
@@ -19,7 +21,7 @@ export default {
   color: white;
   border-radius: 0.8rem;
   padding: var(--spacing-150);
-  gap: var(--spacing-100);
+  margin: var(--spacing-100);
   background-color: var(--color-grey-700);
   text-decoration-line: none;
 }
