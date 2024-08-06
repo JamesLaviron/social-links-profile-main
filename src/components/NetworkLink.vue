@@ -27,7 +27,7 @@ export default {
 
 .network-link:hover {
   background-color: var(--color-green);
-  color: white;
+  color: black;
   cursor: pointer;
 }
 </style>
