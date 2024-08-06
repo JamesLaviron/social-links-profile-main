@@ -1,0 +1,27 @@
+@import "variables.css";
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  gap: var(--spacing-100);
+  padding: 0 var(--spacing-300);
+}
+
+/* Tablet */
+@media screen and (min-width: 768px) {
+  body {
+    padding: var(--spacing-500);
+    gap: var(--spacing-100);
+  }
+}
+
+/* Desktop */
+@media screen and (min-width: 1440px) {
+  body {
+    padding: none;
+    gap: var(--spacing-300);
+  }
+}

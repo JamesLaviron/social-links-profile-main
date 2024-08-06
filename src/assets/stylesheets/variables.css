@@ -16,4 +16,10 @@
   --font-weight-regular: 400;
   --font-weight-semibold: 600;
   --font-weight-bold: 700;
+
+  --spacing-100: 0.8rem;
+  --spacing-150: 1.2rem;
+  --spacing-200: 1.6rem;
+  --spacing-300: 2.4rem;
+  --spacing-500: 4rem;
 }
