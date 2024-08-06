@@ -1,7 +1,7 @@
 <template>
   <main>
     <img
-      src="../assets/images/illustration-article.svg"
+      src="../assets/images/avatar-sydney.jpeg"
       alt="article illustration"
       class="user-avatar"
     />
