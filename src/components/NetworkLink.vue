@@ -20,7 +20,7 @@ export default {
 .network-link {
   color: white;
   border-radius: 0.8rem;
-  padding: var(--spacing-100) var(--spacing-150);
+  padding: var(--spacing-150);
   background-color: var(--color-grey-700);
   text-decoration-line: none;
 }
