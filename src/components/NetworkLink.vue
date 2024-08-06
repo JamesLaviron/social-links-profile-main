@@ -21,7 +21,6 @@ export default {
   color: white;
   border-radius: 0.8rem;
   padding: var(--spacing-150);
-  margin: var(--spacing-100);
   background-color: var(--color-grey-700);
   text-decoration-line: none;
 }
