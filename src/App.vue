@@ -45,6 +45,7 @@ main {
   main {
     padding: var(--spacing-500);
     margin: var(--spacing-300) 0;
+    width: 37.6rem;
   }
 }
 
@@ -53,6 +54,7 @@ main {
   main {
     padding: var(--spacing-500);
     margin: var(--spacing-300) 0;
+    width: 38.4rem;
   }
 }
 
