@@ -21,6 +21,7 @@ export default {
   padding: var(--spacing-150);
   gap: var(--spacing-100);
   background-color: var(--color-grey-700);
+  text-decoration-line: none;
 }
 
 .network-link:hover {
